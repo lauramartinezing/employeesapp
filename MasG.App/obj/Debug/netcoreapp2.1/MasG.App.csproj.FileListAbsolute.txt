@@ -30,3 +30,5 @@ D:\Laura\MasG.App\employeesapp\MasG.App\obj\Debug\netcoreapp2.1\MasG.App.Views.p
 D:\Laura\MasG.App\employeesapp\MasG.App\obj\Debug\netcoreapp2.1\MasG.App.dll
 D:\Laura\MasG.App\employeesapp\MasG.App\obj\Debug\netcoreapp2.1\MasG.App.pdb
 D:\Laura\MasG.App\employeesapp\MasG.App\obj\Debug\netcoreapp2.1\MasG.App.csproj.CopyComplete
+D:\Laura\MasG.App\employeesapp\MasG.App\bin\Debug\netcoreapp2.1\MasGlobal.Model.dll
+D:\Laura\MasG.App\employeesapp\MasG.App\bin\Debug\netcoreapp2.1\MasGlobal.Model.pdb

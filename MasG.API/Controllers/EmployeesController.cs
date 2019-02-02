@@ -24,7 +24,7 @@ namespace MasG.API.Controllers
 
         // GET api/values/5
         [HttpGet("{id}")]
-        public ActionResult<Employee> Get(int id)
+        public Employee Get(int id)
         {
             IEmployeeService services = new EmployeeService();
             return services.GetEmployeeById(id);

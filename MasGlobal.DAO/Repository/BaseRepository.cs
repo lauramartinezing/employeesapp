@@ -12,6 +12,7 @@ namespace MasGlobal.DAO.Repository
     public abstract class BaseRepository
     {
         HttpClient client = new HttpClient();
+
         private string URL = ConfigurationManager.AppSettings["ApiPath"];
        
         //Access Api 

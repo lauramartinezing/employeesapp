@@ -18,6 +18,7 @@ namespace MasGlobal.DAO.Repository
             {
                 HttpResponseMessage response = ApiClient("Employees");
                 List<Employee> dataObjects = response.Content.ReadAsAsync<IEnumerable<Employee>>().Result.ToList();
+
                 return dataObjects;
             }
             catch (Exception ex)

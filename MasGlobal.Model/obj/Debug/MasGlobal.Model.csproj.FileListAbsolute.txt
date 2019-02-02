@@ -1,0 +1,6 @@
+D:\Laura\MasG.App\employeesapp\MasGlobal.Model\bin\Debug\MasGlobal.Model.dll
+D:\Laura\MasG.App\employeesapp\MasGlobal.Model\bin\Debug\MasGlobal.Model.pdb
+D:\Laura\MasG.App\employeesapp\MasGlobal.Model\obj\Debug\MasGlobal.Model.csprojAssemblyReference.cache
+D:\Laura\MasG.App\employeesapp\MasGlobal.Model\obj\Debug\MasGlobal.Model.csproj.CoreCompileInputs.cache
+D:\Laura\MasG.App\employeesapp\MasGlobal.Model\obj\Debug\MasGlobal.Model.dll
+D:\Laura\MasG.App\employeesapp\MasGlobal.Model\obj\Debug\MasGlobal.Model.pdb

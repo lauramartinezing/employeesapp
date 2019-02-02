@@ -1,0 +1,5 @@
+D:\Laura\MasG.App\employeesapp\MasGlobal.DTO\bin\Debug\MasGlobal.DTO.dll
+D:\Laura\MasG.App\employeesapp\MasGlobal.DTO\bin\Debug\MasGlobal.DTO.pdb
+D:\Laura\MasG.App\employeesapp\MasGlobal.DTO\obj\Debug\MasGlobal.DTO.csproj.CoreCompileInputs.cache
+D:\Laura\MasG.App\employeesapp\MasGlobal.DTO\obj\Debug\MasGlobal.DTO.dll
+D:\Laura\MasG.App\employeesapp\MasGlobal.DTO\obj\Debug\MasGlobal.DTO.pdb

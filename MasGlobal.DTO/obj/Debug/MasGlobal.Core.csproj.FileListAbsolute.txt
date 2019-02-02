@@ -1,0 +1,12 @@
+D:\Laura\MasG.App\employeesapp\MasGlobal.DTO\obj\Debug\MasGlobal.Core.csprojAssemblyReference.cache
+D:\Laura\MasG.App\employeesapp\MasGlobal.DTO\obj\Debug\MasGlobal.Core.csproj.CoreCompileInputs.cache
+D:\Laura\MasG.App\employeesapp\MasGlobal.DTO\obj\Debug\MasGlobal.DTO.dll
+D:\Laura\MasG.App\employeesapp\MasGlobal.DTO\obj\Debug\MasGlobal.DTO.pdb
+D:\Laura\MasG.App\employeesapp\MasGlobal.DTO\bin\Debug\MasGlobal.DTO.dll
+D:\Laura\MasG.App\employeesapp\MasGlobal.DTO\bin\Debug\MasGlobal.DTO.pdb
+D:\Laura\MasG.App\employeesapp\MasGlobal.DTO\bin\Debug\MasGlobal.DAO.dll
+D:\Laura\MasG.App\employeesapp\MasGlobal.DTO\bin\Debug\MasGlobal.Model.dll
+D:\Laura\MasG.App\employeesapp\MasGlobal.DTO\bin\Debug\MasGlobal.DAO.pdb
+D:\Laura\MasG.App\employeesapp\MasGlobal.DTO\bin\Debug\MasGlobal.DAO.dll.config
+D:\Laura\MasG.App\employeesapp\MasGlobal.DTO\bin\Debug\MasGlobal.Model.pdb
+D:\Laura\MasG.App\employeesapp\MasGlobal.DTO\obj\Debug\MasGlobal.Core.csproj.CopyComplete

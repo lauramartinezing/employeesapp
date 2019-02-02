@@ -12,5 +12,4 @@ D:\Laura\MasG.App\employeesapp\MasGlobal.DTO\bin\Debug\MasGlobal.Model.pdb
 D:\Laura\MasG.App\employeesapp\MasGlobal.DTO\obj\Debug\MasGlobal.Core.csproj.CopyComplete
 D:\Laura\MasG.App\employeesapp\MasGlobal.DTO\bin\Debug\System.Net.Http.Formatting.dll
 D:\Laura\MasG.App\employeesapp\MasGlobal.DTO\bin\Debug\Newtonsoft.Json.dll
-D:\Laura\MasG.App\employeesapp\MasGlobal.DTO\bin\Debug\System.Net.Http.Formatting.xml
 D:\Laura\MasG.App\employeesapp\MasGlobal.DTO\bin\Debug\Newtonsoft.Json.xml

@@ -12,7 +12,13 @@ namespace MasGlobal.Model
         public string contractTypeName { get; set; }
         public double hourlySalary { get; set; }
         public double monthlySalary { get; set; }
-
-        public double annualSalary { get; set; }
+        public double annualSalary
+        {
+            get
+            {
+                ContractFactory contractFactory = new ConcreteContractFactory();
+                return contractFactory.GetContract(contractTypeName, hourlySalary, monthlySalary).GetcalculatedAnnualSalary();
+            }            
+        }
     }
 }

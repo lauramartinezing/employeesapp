@@ -20,3 +20,4 @@ D:\Laura\MasG.App\employeesapp\MasG.API\bin\Debug\netcoreapp2.1\MasGlobal.DAO.pd
 D:\Laura\MasG.App\employeesapp\MasG.API\bin\Debug\netcoreapp2.1\MasGlobal.DAO.dll.config
 D:\Laura\MasG.App\employeesapp\MasG.API\bin\Debug\netcoreapp2.1\MasGlobal.Model.pdb
 D:\Laura\MasG.App\employeesapp\MasG.API\obj\Debug\netcoreapp2.1\MasG.API.csproj.CopyComplete
+D:\Laura\MasG.App\employeesapp\MasG.API\bin\Debug\netcoreapp2.1\MasG.API.dll.config

@@ -9,6 +9,7 @@ D:\Laura\MasG.App\employeesapp\MasGlobal.DAO\obj\Debug\MasGlobal.DAO.pdb
 D:\Laura\MasG.App\employeesapp\MasGlobal.DAO\bin\Debug\Newtonsoft.Json.dll
 D:\Laura\MasG.App\employeesapp\MasGlobal.DAO\bin\Debug\System.Net.Http.Formatting.dll
 D:\Laura\MasG.App\employeesapp\MasGlobal.DAO\bin\Debug\Newtonsoft.Json.xml
-D:\Laura\MasG.App\employeesapp\MasGlobal.DAO\bin\Debug\System.Net.Http.Formatting.xml
 D:\Laura\MasG.App\employeesapp\MasGlobal.DAO\bin\Debug\MasGlobal.Model.dll
 D:\Laura\MasG.App\employeesapp\MasGlobal.DAO\bin\Debug\MasGlobal.Model.pdb
+D:\Laura\MasG.App\employeesapp\MasGlobal.DAO\bin\Debug\System.Net.Http.Extensions.dll
+D:\Laura\MasG.App\employeesapp\MasGlobal.DAO\bin\Debug\System.Net.Http.Primitives.dll

@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace MasGlobal.Model
 {
-    public class Contract
+    public abstract class Contract
     {
+        public abstract double GetcalculatedAnnualSalary();
     }
 }

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Linq;
 using System.Net.Http;
 using System.Net.Http.Headers;
@@ -10,9 +11,10 @@ namespace MasGlobal.DAO.Repository
 {
     public abstract class BaseRepository
     {
-        static HttpClient client = new HttpClient();
-        private const string URL = "http://masglobaltestapi.azurewebsites.net/";
+        HttpClient client = new HttpClient();
+        private string URL = ConfigurationManager.AppSettings["ApiPath"];
        
+        //Access Api 
         public HttpResponseMessage ApiClient(string parameters)
         {
             try
@@ -20,6 +22,7 @@ namespace MasGlobal.DAO.Repository
                 client.BaseAddress = new Uri(URL);
                 client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
                 HttpResponseMessage response = client.GetAsync(parameters).Result;
+                client.Dispose();
                 return response;
             }
             catch (Exception)

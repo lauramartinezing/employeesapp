@@ -8,12 +8,12 @@ namespace MasGlobal.Core
 {
     class HourlySalaryContract : Contract
     {
-        private int _salary;
-        public HourlySalaryContract(int salary)
+        private double _salary;
+        public HourlySalaryContract(double salary)
         {
             _salary = salary;
         }
-        public override int GetcalculatedAnnualSalary()
+        public override double GetcalculatedAnnualSalary()
         {
             return 120 * _salary * 12 ;
         }

@@ -19,7 +19,7 @@ namespace MasGlobal.Test
         {
             EmployeeService service = new EmployeeService();
             var employee = service.GetEmployeeById(1);
-            Assert.AreEqual("Juan", employee.Name);
+            Assert.AreEqual("Juan", employee.name);
         }
         [TestMethod]
         public void Salary1EmployeeTestMethod()

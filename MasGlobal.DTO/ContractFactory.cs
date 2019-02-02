@@ -10,12 +10,12 @@ namespace MasGlobal.Core
     
     public abstract class ContractFactory
     {
-        public abstract Contract GetContract(string contractTypeName, int hourlySalary, int monthlySalary);
+        public abstract Contract GetContract(string contractTypeName, double hourlySalary, double monthlySalary);
     }
 
     public class ConcreteContractFactory : ContractFactory
     {
-        public override Contract GetContract(string contractTypeName, int hourlySalary, int monthlySalary)
+        public override Contract GetContract(string contractTypeName, double hourlySalary, double monthlySalary)
         {
             switch (contractTypeName)
             {

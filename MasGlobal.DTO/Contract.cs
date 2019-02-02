@@ -8,6 +8,6 @@ namespace MasGlobal.Core
 {
     public abstract class Contract
     {
-        public abstract int GetcalculatedAnnualSalary();
+        public abstract double GetcalculatedAnnualSalary();
     }
 }

@@ -23,3 +23,7 @@ D:\Laura\MasG.App\employeesapp\MasGlobal.Test\bin\Debug\MasGlobal.DTO.dll
 D:\Laura\MasG.App\employeesapp\MasGlobal.Test\bin\Debug\MasGlobal.DTO.pdb
 D:\Laura\MasG.App\employeesapp\MasGlobal.Test\bin\Debug\MasGlobal.Model.dll
 D:\Laura\MasG.App\employeesapp\MasGlobal.Test\bin\Debug\MasGlobal.Model.pdb
+D:\Laura\MasG.App\employeesapp\MasGlobal.Test\bin\Debug\System.Net.Http.Formatting.dll
+D:\Laura\MasG.App\employeesapp\MasGlobal.Test\bin\Debug\Newtonsoft.Json.dll
+D:\Laura\MasG.App\employeesapp\MasGlobal.Test\bin\Debug\System.Net.Http.Formatting.xml
+D:\Laura\MasG.App\employeesapp\MasGlobal.Test\bin\Debug\Newtonsoft.Json.xml
